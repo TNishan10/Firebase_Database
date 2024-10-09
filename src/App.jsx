@@ -41,6 +41,14 @@ const App = () => {
     </div>
   )
 }
+function git(){
+  return (
+    <div>
+      <h1>hello</h1>
+    </div>
+  )
+}
 
+console.log(git());
 export default App;
 
